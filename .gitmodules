@@ -1,0 +1,3 @@
+[submodule "common/math/KFCore"]
+	path = common/math/KFCore
+	url = https://github.com/jnz/KFCore.git
